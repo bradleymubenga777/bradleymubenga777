@@ -19,6 +19,6 @@
   <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/>&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">JavaScript, Sass, HTML, CSS, PHP, Python</p>
+<p align="center">REACT.js, Express.js, Redux, Node.js, MongoDB, JavaScript, Sass, HTML, CSS, PHP, Python</p>
 
 <hr>
