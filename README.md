@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://ik.imagekit.io/y67cxinvdf/YouTube_Banner_wJNNZs1uKnAd.png" alt="header"/>
+</div>
 
-<!--
-**bradleymubenga777/bradleymubenga777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left"> 👨‍💻 Who am I</h2>
+<p align="left">
+  <samp>
+    A Web Development Trainee, I specialize in the MERN stack and I love making videos teaching different concepts of web design, development and programming.
+  </samp>
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left"> 🔭 Tools of Trade</h2>
+<p align="left">
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/plasticine/100/000000/react.png"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/>&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
+
+<hr>
