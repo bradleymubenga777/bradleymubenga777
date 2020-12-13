@@ -19,7 +19,7 @@
   <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/>&nbsp;&nbsp;&nbsp;
 </p>
-<p align="left">REACT.js, Express.js, Redux, Node.js, MongoDB, JavaScript, Sass, HTML, CSS, PHP, Python</p>
+<p align="left">REACT.js, Express.js, Redux, Node.js, MongoDB, JavaScript, Bootstrap, Sass, HTML, CSS, PHP, Python.</p>
 
 <hr>
 
@@ -27,6 +27,6 @@
 <p align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=bradleymubenga777&show_icons=true&theme=tokyonight&line_height=48" />
-   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradleymubenga777&count_private=true&theme=tokyonight">
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradleymubenga777&count_private=true&theme=tokyonight">
 
 </p>
