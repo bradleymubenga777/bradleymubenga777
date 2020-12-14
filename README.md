@@ -19,7 +19,7 @@
   <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/>&nbsp;&nbsp;&nbsp;
 </p>
-<p align="left">REACT.js, Express.js, Redux, Node.js, MongoDB, JavaScript, Bootstrap, Sass, HTML, CSS, PHP, Python.</p>
+<p align="left">REACT.js, Express.js, Redux, Node.js, MongoDB, JavaScript, Bootstrap, Material UI, Sass, HTML, CSS, PHP, Python.</p>
 
 <hr>
 
