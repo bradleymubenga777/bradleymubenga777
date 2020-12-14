@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ik.imagekit.io/y67cxinvdf/YouTube_Banner_wJNNZs1uKnAd.png" alt="header"/>
+  <img src="https://ik.imagekit.io/y67cxinvdf/YouTube_Banner_JxjyaZXNXe4J.png" alt="header"/>
 </div>
 
 <h2 align="left"> 👨‍💻 Who am I</h2>
