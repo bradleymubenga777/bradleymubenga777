@@ -24,11 +24,8 @@
 <hr>
 
 <h2 align="left"> 📊 My Statistics</h2>
-<p align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=bradleymubenga777&show_icons=true&theme=tokyonight&line_height=48" />
-
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="48%" src="https://user-images.githubusercontent.com/624760/87853406-a34b6900-c901-11ea-834b-07d90ca3d4fa.gif" alt="Eddie teaching code on YouTube" />
+  <img width="48%" src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" />
+</p>)
 
