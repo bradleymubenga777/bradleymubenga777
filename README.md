@@ -19,7 +19,6 @@
   <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="50px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="50px"/>&nbsp;&nbsp;&nbsp;
 </p>
-<p align="left">REACT.js, Express.js, Redux, Node.js, MongoDB, JavaScript, Bootstrap, Material UI, Sass, HTML, CSS, PHP, Python.</p>
 
 <hr>
 
