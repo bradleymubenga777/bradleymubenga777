@@ -5,7 +5,7 @@
 <h2 align="left"> 👨‍💻 Who am I</h2>
 <p align="left">
   <samp>
-    A Full Stack Web Development Trainee, I specialize in the MERN stack and I love making videos teaching different concepts of web design, development and programming. I am available for freelance projects or any project you need assistance with.
+    A Full Stack Web Development Trainee, I specialize in the MERN stack and I love making videos teaching different concepts of web design, development and programming. Feel free to email me if you have any questions, I'd like to assist you.
   </samp>
 </p>
 
