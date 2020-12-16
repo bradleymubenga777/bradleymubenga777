@@ -29,3 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bradleymubenga777&show_icons=true&theme=tokyonight&line_height=48" />
 
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
