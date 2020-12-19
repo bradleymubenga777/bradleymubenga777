@@ -18,6 +18,7 @@
   <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="50px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="50px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="50px"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://ik.imagekit.io/y67cxinvdf/sass-1-logo_ECmZvwmDrfvK.png" width="50px"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
