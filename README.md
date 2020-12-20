@@ -5,8 +5,9 @@
 <h2 align="left"> 👨‍💻 Who am I</h2>
 <p align="left">
   <samp>
-      Full-Stack Web Development Trainee @CodeYourFuture<br>
-      Bulding Web Applications That Solve Everyday Problems.
+    My passion is creating web applications that improve the lives of human beings.
+
+I am a Full-Stack Web Developer (Trainee) that specializes in the MERN stack. I have an avid interest in Artificial Intelligence and I am learning how to integrate it into the web applications that I build. 
   </samp>
 </p>
 
