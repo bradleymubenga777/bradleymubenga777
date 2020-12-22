@@ -21,7 +21,6 @@ I am a Full-Stack Web Developer (Trainee) that specializes in the MERN stack. I 
   <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="50px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="50px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://ik.imagekit.io/y67cxinvdf/sass-1-logo_ECmZvwmDrfvK.png" width="50px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://ik.imagekit.io/y67cxinvdf/768px-Python-logo-notext.svg_5vrCX5kLPjoN.png" width="50px"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
