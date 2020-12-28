@@ -18,7 +18,7 @@ I am a Full-Stack Web Developer that specializes in the MERN stack. I have an av
   <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="50px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://ik.imagekit.io/y67cxinvdf/express_mU3LPzfzdiHG.png" width="50px">
   <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="50px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="50px"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://ik.imagekit.io/y67cxinvdf/nodejs-logo-FBE122E377-seeklogo.com_eZWMQpJ2Jh.png" width="50px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://ik.imagekit.io/y67cxinvdf/Bootstrap_logo_T4MtY_idYd.svg" width="50px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://ik.imagekit.io/y67cxinvdf/sass-1-logo_ECmZvwmDrfvK.png" width="50px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://ik.imagekit.io/y67cxinvdf/logomark_4rhgf4EhhOIaF.png" width="50px"/>&nbsp;&nbsp;&nbsp;
