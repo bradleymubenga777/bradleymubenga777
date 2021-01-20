@@ -21,7 +21,6 @@ I am a Full-Stack Web Developer that specializes in the MERN stack. I have an av
   <img src="https://ik.imagekit.io/y67cxinvdf/nodejs-logo-FBE122E377-seeklogo.com_eZWMQpJ2Jh.png" width="45px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://ik.imagekit.io/y67cxinvdf/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67_pgbhnExNF.png" width="65px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://ik.imagekit.io/y67cxinvdf/sass-1-logo_ECmZvwmDrfvK.png" width="50px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://ik.imagekit.io/y67cxinvdf/logomark_4rhgf4EhhOIaF.png" width="50px"/>&nbsp;&nbsp;&nbsp;
   
 </p>
 
