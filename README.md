@@ -11,7 +11,7 @@ I am a Full-Stack Web Developer that specializes in the MERN stack. I have an av
 
 <h2 align="left"> 🔭 Tools of Trade</h2>
 <p align="left">
-  <img src="https://ik.imagekit.io/y67cxinvdf/MySQL-Logo.wine__pand05yA.png" width="77px"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://ik.imagekit.io/y67cxinvdf/MySQL-Logo.wine__pand05yA.png" width="77px"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="50px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://ik.imagekit.io/y67cxinvdf/express_mU3LPzfzdiHG.png" width="50px">
   <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="50px"/>&nbsp;&nbsp;&nbsp;
