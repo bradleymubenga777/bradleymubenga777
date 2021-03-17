@@ -20,15 +20,3 @@ I am a Full-Stack Web Developer that specializes in the MERN stack. I have an av
   <img src="https://ik.imagekit.io/y67cxinvdf/sass-1-logo_ECmZvwmDrfvK.png" width="50px"/>&nbsp;&nbsp;&nbsp;
   
 </p>
-
-<hr>
-
-<h2 align="left"> 📊 My Statistics</h2>
-
-<p align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=bradleymubenga777&show_icons=true&theme=tokyonight&line_height=48" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradleymubenga777&count_private=true&theme=tokyonight">
-
-</p>
-
